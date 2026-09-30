@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Replace YOUR-DOMAIN-HERE with your real domain after choosing a host (GitHub Pages / Cloudflare Pages / Netlify). -->
+<!-- Replace adsastudiodesign.github.io/adsa-blog with your real domain after choosing a host (GitHub Pages / Cloudflare Pages / Netlify). -->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://YOUR-DOMAIN-HERE/</loc></url>
-  <url><loc>https://YOUR-DOMAIN-HERE/articles/wedding-budget-spreadsheet.html</loc></url>
-  <url><loc>https://YOUR-DOMAIN-HERE/articles/freelancer-tax-tracker.html</loc></url>
-  <url><loc>https://YOUR-DOMAIN-HERE/articles/landlord-rent-roll-template.html</loc></url>
-  <url><loc>https://YOUR-DOMAIN-HERE/articles/debt-snowball-vs-avalanche.html</loc></url>
-  <url><loc>https://YOUR-DOMAIN-HERE/articles/realtor-lead-tracker.html</loc></url>
+  <url><loc>https://adsastudiodesign.github.io/adsa-blog/</loc></url>
+  <url><loc>https://adsastudiodesign.github.io/adsa-blog/articles/wedding-budget-spreadsheet.html</loc></url>
+  <url><loc>https://adsastudiodesign.github.io/adsa-blog/articles/freelancer-tax-tracker.html</loc></url>
+  <url><loc>https://adsastudiodesign.github.io/adsa-blog/articles/landlord-rent-roll-template.html</loc></url>
+  <url><loc>https://adsastudiodesign.github.io/adsa-blog/articles/debt-snowball-vs-avalanche.html</loc></url>
+  <url><loc>https://adsastudiodesign.github.io/adsa-blog/articles/realtor-lead-tracker.html</loc></url>
 </urlset>
