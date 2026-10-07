@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Replace adsastudiodesign.github.io/adsa-blog with your real domain after choosing a host (GitHub Pages / Cloudflare Pages / Netlify). -->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://adsastudiodesign.github.io/adsa-blog/</loc></url>
   <url><loc>https://adsastudiodesign.github.io/adsa-blog/articles/wedding-budget-spreadsheet.html</loc></url>
@@ -7,4 +6,10 @@
   <url><loc>https://adsastudiodesign.github.io/adsa-blog/articles/landlord-rent-roll-template.html</loc></url>
   <url><loc>https://adsastudiodesign.github.io/adsa-blog/articles/debt-snowball-vs-avalanche.html</loc></url>
   <url><loc>https://adsastudiodesign.github.io/adsa-blog/articles/realtor-lead-tracker.html</loc></url>
+  <url><loc>https://adsastudiodesign.github.io/adsa-blog/articles/offline-games-for-family-game-night.html</loc></url>
+  <url><loc>https://adsastudiodesign.github.io/adsa-blog/articles/retro-arcade-games-offline.html</loc></url>
+  <url><loc>https://adsastudiodesign.github.io/adsa-blog/articles/interactive-storybooks-vs-picture-books.html</loc></url>
+  <url><loc>https://adsastudiodesign.github.io/adsa-blog/articles/screen-free-learning-apps-for-kids.html</loc></url>
+  <url><loc>https://adsastudiodesign.github.io/adsa-blog/articles/learn-piano-at-home-app.html</loc></url>
+  <url><loc>https://adsastudiodesign.github.io/adsa-blog/articles/teacher-classroom-tools-digital.html</loc></url>
 </urlset>
